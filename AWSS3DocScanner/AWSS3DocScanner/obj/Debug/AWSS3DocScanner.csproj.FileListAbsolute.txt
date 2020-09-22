@@ -1,0 +1,14 @@
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSS3DocScanner.exe.config
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSS3DocScanner.exe
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSS3DocScanner.pdb
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSSDK.Core.dll
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSSDK.S3.dll
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSSDK.Core.xml
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSSDK.S3.pdb
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\bin\Debug\AWSSDK.S3.xml
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\obj\Debug\AWSS3DocScanner.csprojAssemblyReference.cache
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\obj\Debug\AWSS3DocScanner.csproj.CoreCompileInputs.cache
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\obj\Debug\AWSS3DocScanner.csproj.CopyComplete
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\obj\Debug\AWSS3DocScanner.exe
+C:\Users\Davelsys\source\repos\AWSS3DocScanner\AWSS3DocScanner\obj\Debug\AWSS3DocScanner.pdb

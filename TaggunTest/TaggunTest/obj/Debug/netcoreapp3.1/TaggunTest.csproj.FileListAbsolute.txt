@@ -1,0 +1,15 @@
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\TaggunTest.exe
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.csprojAssemblyReference.cache
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.AssemblyInfoInputs.cache
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.AssemblyInfo.cs
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\TaggunTest.deps.json
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\TaggunTest.runtimeconfig.json
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\TaggunTest.runtimeconfig.dev.json
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\TaggunTest.dll
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\TaggunTest.pdb
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.csproj.CoreCompileInputs.cache
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.csproj.CopyComplete
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.dll
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.pdb
+C:\Users\Davelsys\source\repos\TaggunTest\TaggunTest\obj\Debug\netcoreapp3.1\TaggunTest.genruntimeconfig.cache

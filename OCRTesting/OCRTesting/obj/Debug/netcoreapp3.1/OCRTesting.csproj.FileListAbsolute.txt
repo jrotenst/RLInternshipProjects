@@ -1,0 +1,16 @@
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\OCRTesting.exe
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.csprojAssemblyReference.cache
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.AssemblyInfoInputs.cache
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.AssemblyInfo.cs
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\OCRTesting.deps.json
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\OCRTesting.runtimeconfig.json
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\OCRTesting.runtimeconfig.dev.json
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\OCRTesting.dll
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\OCRTesting.pdb
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.csproj.CopyComplete
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.dll
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.pdb
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.genruntimeconfig.cache
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Davelsys\source\repos\OCRTesting\OCRTesting\obj\Debug\netcoreapp3.1\OCRTesting.csproj.CoreCompileInputs.cache

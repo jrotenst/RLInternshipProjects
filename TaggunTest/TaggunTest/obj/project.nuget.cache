@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/m3VLr/3gOYqS6pA4q/o7yV5TonyyfldPObGZFkzsS7CYJpqCuHTs1MOzHrL14mzYT4xX2XYtNVHgv/EJFhJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davelsys\\source\\repos\\TaggunTest\\TaggunTest\\TaggunTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davelsys\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qR6WhtozrIp2obIhJVe+Z36bY5XOJd7JzeGjPV73h8iRkn5qFREdxxPNj05Qk87uZCEz6rumQCLDeD1EbZ4nfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davelsys\\source\\repos\\OCRTesting\\OCRTesting\\OCRTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davelsys\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Davelsys\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

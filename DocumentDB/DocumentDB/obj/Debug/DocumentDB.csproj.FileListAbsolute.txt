@@ -1,0 +1,7 @@
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\bin\Debug\DocumentDB.exe.config
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\bin\Debug\DocumentDB.exe
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\bin\Debug\DocumentDB.pdb
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\obj\Debug\DocumentDB.csprojAssemblyReference.cache
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\obj\Debug\DocumentDB.csproj.CoreCompileInputs.cache
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\obj\Debug\DocumentDB.exe
+C:\Users\Davelsys\source\repos\DocumentDB\DocumentDB\obj\Debug\DocumentDB.pdb
